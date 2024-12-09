@@ -1,0 +1,11 @@
+name,gender,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level
+John Doe,Male,45,0,0,never,25.5,5.5,120
+Jane Smith,Female,32,0,0,current,22.0,5.9,150
+Alice Johnson,Female,50,1,1,former,30.1,7.2,200
+Bob Brown,Male,60,1,1,never,28.0,6.8,190
+Charlie Davis,Male,28,0,0,current,24.3,5.0,110
+Emily White,Female,35,0,0,never,26.5,5.6,130
+Frank Harris,Male,48,1,0,former,29.7,6.7,180
+Grace Lee,Female,41,0,0,No Info,23.4,5.3,140
+Hannah Young,Female,53,1,1,ever,27.8,7.0,210
+Ian Thomas,Male,30,0,0,never,21.5,5.1,115
